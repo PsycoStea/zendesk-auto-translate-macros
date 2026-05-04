@@ -2,5 +2,6 @@
   "name": "basic-email",
   "body": "Hi {{ticket.requester.first_name}}<div>Thanks for the email</div><div><br></div><div>{{cursor}}</div><div><br></div><div>Regards,</div><div>Mac Group Customer Service</div>",
   "updated": 1777801345636,
+  "autoTranslate": false,
   "attachments": []
 }
