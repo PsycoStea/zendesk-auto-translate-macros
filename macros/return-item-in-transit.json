@@ -1,0 +1,7 @@
+{
+  "name": "return-item-in-transit",
+  "body": "<p>Hi {{ticket.requester.first_name}}</p><p>Thanks for the email</p><p>&nbsp;</p><p>The item is on its way to us at this time. When the item arrives, the item will be evaluated and the return will be updated. We can then update you with further information</p><p>&nbsp;</p><p>Regards,</p><p>Mac Group Customer Service</p>",
+  "updated": 1777970877633,
+  "autoTranslate": false,
+  "attachments": []
+}
