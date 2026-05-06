@@ -1,0 +1,7 @@
+{
+  "name": "invoice",
+  "body": "<p>Hi {{ticket.requester.first_name}}</p><p>Thanks for the email</p><p>&nbsp;</p><p>Please see the attached invoice</p><p>&nbsp;</p><p>Regards,</p><p>Mac Group Customer Service</p>",
+  "updated": 1778075520280,
+  "autoTranslate": true,
+  "attachments": []
+}
