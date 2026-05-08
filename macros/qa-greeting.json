@@ -1,7 +1,0 @@
-{
-  "name": "qa-greeting",
-  "body": "<div>Hi {{ticket.requester.first_name}}</div><div>Thanks for reaching out</div><div><br></div><div>{{cursor}}</div><div><br></div><div>Regards,</div><div>QA Test</div>",
-  "updated": 1778244465217,
-  "autoTranslate": false,
-  "attachments": []
-}
