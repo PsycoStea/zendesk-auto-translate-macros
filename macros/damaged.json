@@ -1,0 +1,7 @@
+{
+  "name": "damaged",
+  "body": "<div>Hi {{ticket.requester.first_name}},&nbsp;</div><div><br></div><div>Thank you for your message, we are sorry to hear that your order has been damaged in transit.&nbsp;</div><div><br></div><div>We will send you a return label immediately. Please could you send us photos of the packaging and the device to help us claim with the courier.&nbsp;<span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\">As soon as we receive your device, we will refund your order.&nbsp;</span></div><div><br></div><div>We will resolve this as quickly as possible.&nbsp;</div><div><br></div><div>Kind regards,&nbsp;</div><div>Mac Group Customer Service&nbsp;</div>",
+  "updated": 1779373277346,
+  "autoTranslate": true,
+  "attachments": []
+}
