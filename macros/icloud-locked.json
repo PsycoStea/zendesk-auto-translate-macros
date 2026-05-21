@@ -1,0 +1,7 @@
+{
+  "name": "icloud-locked",
+  "body": "<p>Hi {{ticket.requester.first_name}},</p><p><br>&nbsp;</p><p>Thanks for the email.</p><p>&nbsp;</p><p>&nbsp;We have received your item and it is found to be iCloud locked. Please log into your account and remove the device. Please let us know once you are complete so we can continue with the evaluation.</p><p>&nbsp;</p><p>Kind regards,</p><p>Mac Group Customer Service</p>",
+  "updated": 1779355091959,
+  "autoTranslate": true,
+  "attachments": []
+}
