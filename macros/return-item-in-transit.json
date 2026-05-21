@@ -1,7 +1,7 @@
 {
   "name": "return-item-in-transit",
-  "body": "<p>Hi {{ticket.requester.first_name}},</p><p><br></p><p>Thanks for the email.</p><p><br></p><p>The item is on its way to us at this time. When the item arrives, the item will be evaluated and the return will be updated. We can then update you with further information</p><p><br></p><p>Kind regards,</p><p>Mac Group Customer Service</p>",
-  "updated": 1779355325745,
+  "body": "<p>Hi {{ticket.requester.first_name}},</p><p><br></p><p>Thanks for the email.</p><p><br></p><p>The item is on its way to us at this time. When it arrives, the item will be evaluated, and the return will be updated. We can then update you with further information.</p><p><br></p><p>Kind regards,</p><p>Mac Group Customer Service</p>",
+  "updated": 1779357520473,
   "autoTranslate": true,
   "attachments": []
 }
