@@ -1,0 +1,7 @@
+{
+  "name": "escalate-refurbed",
+  "body": "<p>Hi {{ticket.requester.first_name}},</p><p><br></p><p>Thanks for the email.</p><p><br></p><p>We have reached out to Refurbed for assistance in this matter. As soon as there is more information, you will be updated</p><p><br></p><p>Kind regards,</p><p>Mac Group Customer Service</p>",
+  "updated": 1779358725829,
+  "autoTranslate": true,
+  "attachments": []
+}
