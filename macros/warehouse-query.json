@@ -1,7 +1,7 @@
 {
   "name": "warehouse-query",
-  "body": "<p>Hi {{ticket.requester.first_name}},</p><p><br></p><p>Thanks for the email.</p><p>&nbsp;</p><p>I have reached out to the warehouse to query the state of your return. Once there is more information, you will be updated</p><p>&nbsp;</p><p>Kind regards,</p><p>Mac Group Customer Service</p>",
-  "updated": 1779355111436,
+  "body": "<p>Hi {{ticket.requester.first_name}},</p><p><br></p><p>Thanks for the email.</p><p><br></p><p>I have reached out to the warehouse to query the state of your return. Once there is more information, you will be updated</p><p><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\">&nbsp;</span></p><p>Kind regards,</p><p>Mac Group Customer Service</p>",
+  "updated": 1779355319640,
   "autoTranslate": true,
   "attachments": []
 }
