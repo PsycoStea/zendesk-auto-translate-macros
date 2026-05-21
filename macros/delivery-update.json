@@ -1,0 +1,7 @@
+{
+  "name": "delivery-update",
+  "body": "<div>Hi {{ticket.requester.first_name}},&nbsp;</div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\"><br></span></div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\">Thank you for your message.&nbsp;</span></div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\"><br></span></div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\">We will look into your delivery status and come back to you with an update.&nbsp;</span></div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\"><br></span></div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\">We hope you enjoy the rest of your day.&nbsp;</span></div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\"><br></span></div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\">Kind regards,&nbsp;</span></div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\">Mac Group Customer Service&nbsp;</span></div>",
+  "updated": 1779373733023,
+  "autoTranslate": false,
+  "attachments": []
+}
