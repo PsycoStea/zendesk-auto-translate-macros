@@ -1,7 +1,7 @@
 {
   "name": "order-cancelled",
-  "body": "Hi {{ticket.requester.first_name}}<div>Thanks for the email</div><div><br></div><div>You order has been cancelled. The refund has been processed and should reflect in the next 3 business days</div><div><br></div><div>Regards,</div><div>Mac Group Customer Service</div>",
-  "updated": 1777966841863,
+  "body": "Hi {{ticket.requester.first_name}},<div><br><div>Thanks for the email.</div><div><br></div><div>You order has been cancelled. The refund has been processed and should reflect in the next 3 business days</div><div><br></div><div>Kind regards,</div><div>Mac Group Customer Service</div></div>",
+  "updated": 1779355104275,
   "autoTranslate": true,
   "attachments": []
 }
