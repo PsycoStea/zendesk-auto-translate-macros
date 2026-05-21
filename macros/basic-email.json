@@ -1,7 +1,7 @@
 {
   "name": "basic-email",
-  "body": "Hi {{ticket.requester.first_name}},<div><br><div>Thanks for the email.</div><div><br></div><div>{{cursor}}</div><div><br></div><div>Kind regards,</div><div>Mac Group Customer Service</div></div>",
-  "updated": 1779355088553,
+  "body": "<div>Hi {{ticket.requester.first_name}},&nbsp;</div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\"><br></span></div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\">Thank you for your message.&nbsp;</span></div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\"><br></span></div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\">{{cursor}}&nbsp;</span></div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\"><br></span></div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\">We hope you enjoy the rest of your day.&nbsp;</span></div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\"><br></span></div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\">Kind regards,&nbsp;</span></div><div><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\">Mac Group Customer Service&nbsp;</span></div>",
+  "updated": 1779373482865,
   "autoTranslate": false,
   "attachments": []
 }
