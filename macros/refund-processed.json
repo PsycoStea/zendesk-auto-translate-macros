@@ -1,7 +1,7 @@
 {
   "name": "refund-processed",
-  "body": "<p>Hi {{ticket.requester.first_name}},</p><p><br></p><p>Thanks for the email.</p><p>&nbsp;</p><p>Your refund has been processed and should reflect in the next 3 business days</p><p>&nbsp;</p><p>Kind regards,</p><p>Mac Group Customer Service</p>",
-  "updated": 1779355106781,
+  "body": "<p>Hi {{ticket.requester.first_name}},</p><p><br></p><p>Thanks for the email.</p><p><br></p><p>Your refund has been processed and should reflect in the next 3 business days</p><p><br></p><p>Kind regards,</p><p>Mac Group Customer Service</p>",
+  "updated": 1779355332507,
   "autoTranslate": true,
   "attachments": []
 }
