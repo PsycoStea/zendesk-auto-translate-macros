@@ -1,0 +1,7 @@
+{
+  "name": "no-stock",
+  "body": "Hi {{ticket.requester.first_name}},<div><br><div>Thanks for the email.</div><div><br></div><div><p>Unfortunately, we no longer have stock of the item you originally ordered. Your refund has been processed and should reflect in the next 3 business days. Thanks for your understanding</p><p><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\"><br></span></p><p><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\">Kind regards,<br></span><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\">Mac Group Customer Service</span></p></div></div>",
+  "updated": 1779355101648,
+  "autoTranslate": true,
+  "attachments": []
+}
