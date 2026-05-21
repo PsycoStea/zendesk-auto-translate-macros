@@ -1,7 +1,7 @@
 {
   "name": "invoice",
-  "body": "<p>Hi {{ticket.requester.first_name}},</p><p><br></p><p>Thanks for the email.</p><p><br></p><p>Please see the attached invoice</p><p>&nbsp;</p><p>Kind regards,<br><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\">Mac Group Customer Service</span></p>",
-  "updated": 1779355099294,
+  "body": "<p>Hi {{ticket.requester.first_name}},</p><p><br></p><p>Thanks for the email.</p><p><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\"><br></span></p><p><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\">Please see the attached invoice</span></p><p><br></p><p>Kind regards,<br><span style=\"font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, sans-serif;\">Mac Group Customer Service</span></p>",
+  "updated": 1779355360741,
   "autoTranslate": true,
   "attachments": []
 }
